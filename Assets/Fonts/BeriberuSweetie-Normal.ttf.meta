@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d00539954cc1df641857f4ecb20f7926
+timeCreated: 1512509599
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beriberu Sweetie
+  fontNames:
+  - Beriberu Sweetie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
